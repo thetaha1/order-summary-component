@@ -93,6 +93,7 @@ main {
   justify-content: space-between;
   width: 100%;
   padding: 1.56rem 1.5rem;
+  margin-top: 1.25rem;
 }
 
 .flex-group {
