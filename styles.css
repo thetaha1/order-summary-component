@@ -107,7 +107,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  row-gap: 0.38rem;
+  /* row-gap: 0.18rem; */
 }
 
 .info > .title {
@@ -148,7 +148,7 @@ main {
   font-weight: var(--fw-black);
 }
 
-.butotn-cancel-payment {
+.buttn-cancel-payment {
   border: 0;
   background-color: transparent;
   margin-top: 2rem;
